@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/alro923"><img src="https://github.com/alro923.png" width="100px;" alt=""/><br/><sub><b>31기 이현주</b></sub></a><br/></td>
+     <td align="center"><a href="https://github.com/uhhyunjoo"><img src="https://github.com/uhhyunjoo.png" width="100px;" alt=""/><br/><sub><b>31기 이현주</b></sub></a><br/></td>
      <td align="center"><a href="https://github.com/HayunKwon"><img src="https://github.com/HayunKwon.png" width="100px;" alt=""/><br/><sub><b>32기 권하윤</b></sub></a><br/></td>
      <td align="center"><a href="https://github.com/ddongguri"><img src="https://github.com/ddongguri.png" width="100px;" alt=""/><br/><sub><b>32기 동기창</b></sub></a><br/></td>
      <td align="center"><a href="https://github.com/cu29635"><img src="https://github.com/cu29635.png" width="100px;" alt=""/><br/><sub><b>34기 이규리</b></sub></a><br/></td>
